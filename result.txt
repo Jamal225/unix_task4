@@ -1,0 +1,259 @@
+Test 1
+fifnished 100 clients
+Check server state
+Received from client: -970. Current server state = 0
+
+Test 2
+fifnished 100 clients
+Check server state
+Received from client: -970. Current server state = 0
+fifnished 100 clients
+Check server state
+Received from client: -970. Current server state = 0
+Check heap
+Start server
+---
+Received from client: 970. Current server state = 970
+
+Test 3
+Test: Counts clients = 10; Delay = 0
+Client time = 
+Total time = 0
+Effective time = 0
+Test: Counts clients = 10; Delay = 0.2
+Client time = 
+Total time = 6
+Effective time = 6
+Test: Counts clients = 10; Delay = 0.4
+Client time = 
+Total time = 12
+Effective time = 12
+Test: Counts clients = 10; Delay = 0.6
+Client time = 
+Total time = 18
+Effective time = 18
+Test: Counts clients = 10; Delay = 0.8
+Client time = 
+Total time = 24
+Effective time = 24
+Test: Counts clients = 10; Delay = 1.0
+Client time = 
+Total time = 30
+Effective time = 30
+Test: Counts clients = 20; Delay = 0
+Client time = 
+Total time = 0
+Effective time = 0
+Test: Counts clients = 20; Delay = 0.2
+Client time = 
+Total time = 6
+Effective time = 6
+Test: Counts clients = 20; Delay = 0.4
+Client time = 
+Total time = 12
+Effective time = 12
+Test: Counts clients = 20; Delay = 0.6
+Client time = 
+Total time = 18
+Effective time = 18
+Test: Counts clients = 20; Delay = 0.8
+Client time = 
+Total time = 24
+Effective time = 24
+Test: Counts clients = 20; Delay = 1.0
+Client time = 
+Total time = 30
+Effective time = 30
+Test: Counts clients = 30; Delay = 0
+Client time = 
+Total time = 0
+Effective time = 0
+Test: Counts clients = 30; Delay = 0.2
+Client time = 
+Total time = 6
+Effective time = 6
+Test: Counts clients = 30; Delay = 0.4
+Client time = 
+Total time = 12
+Effective time = 12
+Test: Counts clients = 30; Delay = 0.6
+Client time = 
+Total time = 18
+Effective time = 18
+Test: Counts clients = 30; Delay = 0.8
+Client time = 
+Total time = 24
+Effective time = 24
+Test: Counts clients = 30; Delay = 1.0
+Client time = 
+Total time = 30
+Effective time = 30
+Test: Counts clients = 40; Delay = 0
+Client time = 
+Total time = 0
+Effective time = 0
+Test: Counts clients = 40; Delay = 0.2
+Client time = 
+Total time = 6
+Effective time = 6
+Test: Counts clients = 40; Delay = 0.4
+Client time = 
+Total time = 13
+Effective time = 13
+Test: Counts clients = 40; Delay = 0.6
+Client time = 
+Total time = 18
+Effective time = 18
+Test: Counts clients = 40; Delay = 0.8
+Client time = 
+Total time = 24
+Effective time = 24
+Test: Counts clients = 40; Delay = 1.0
+Client time = 
+Total time = 30
+Effective time = 30
+Test: Counts clients = 50; Delay = 0
+Client time = 
+Total time = 0
+Effective time = 0
+Test: Counts clients = 50; Delay = 0.2
+Client time = 
+Total time = 6
+Effective time = 6
+Test: Counts clients = 50; Delay = 0.4
+Client time = 
+Total time = 12
+Effective time = 12
+Test: Counts clients = 50; Delay = 0.6
+Client time = 
+Total time = 18
+Effective time = 18
+Test: Counts clients = 50; Delay = 0.8
+Client time = 
+Total time = 24
+Effective time = 24
+Test: Counts clients = 50; Delay = 1.0
+Client time = 
+Total time = 30
+Effective time = 30
+Test: Counts clients = 60; Delay = 0
+Client time = 
+Total time = 0
+Effective time = 0
+Test: Counts clients = 60; Delay = 0.2
+Client time = 
+Total time = 6
+Effective time = 6
+Test: Counts clients = 60; Delay = 0.4
+Client time = 
+Total time = 12
+Effective time = 12
+Test: Counts clients = 60; Delay = 0.6
+Client time = 
+Total time = 18
+Effective time = 18
+Test: Counts clients = 60; Delay = 0.8
+Client time = 
+Total time = 24
+Effective time = 24
+Test: Counts clients = 60; Delay = 1.0
+Client time = 
+Total time = 30
+Effective time = 30
+Test: Counts clients = 70; Delay = 0
+Client time = 
+Total time = 0
+Effective time = 0
+Test: Counts clients = 70; Delay = 0.2
+Client time = 
+Total time = 6
+Effective time = 6
+Test: Counts clients = 70; Delay = 0.4
+Client time = 
+Total time = 12
+Effective time = 12
+Test: Counts clients = 70; Delay = 0.6
+Client time = 
+Total time = 18
+Effective time = 18
+Test: Counts clients = 70; Delay = 0.8
+Client time = 
+Total time = 24
+Effective time = 24
+Test: Counts clients = 70; Delay = 1.0
+Client time = 
+Total time = 31
+Effective time = 31
+Test: Counts clients = 80; Delay = 0
+Client time = 
+Total time = 0
+Effective time = 0
+Test: Counts clients = 80; Delay = 0.2
+Client time = 
+Total time = 6
+Effective time = 6
+Test: Counts clients = 80; Delay = 0.4
+Client time = 
+Total time = 12
+Effective time = 12
+Test: Counts clients = 80; Delay = 0.6
+Client time = 
+Total time = 18
+Effective time = 18
+Test: Counts clients = 80; Delay = 0.8
+Client time = 
+Total time = 24
+Effective time = 24
+Test: Counts clients = 80; Delay = 1.0
+Client time = 
+Total time = 30
+Effective time = 30
+Test: Counts clients = 90; Delay = 0
+Client time = 
+Total time = 0
+Effective time = 0
+Test: Counts clients = 90; Delay = 0.2
+Client time = 
+Total time = 6
+Effective time = 6
+Test: Counts clients = 90; Delay = 0.4
+Client time = 
+Total time = 12
+Effective time = 12
+Test: Counts clients = 90; Delay = 0.6
+Client time = 
+Total time = 18
+Effective time = 18
+Test: Counts clients = 90; Delay = 0.8
+Client time = 
+Total time = 24
+Effective time = 24
+Test: Counts clients = 90; Delay = 1.0
+Client time = 
+Total time = 30
+Effective time = 30
+Test: Counts clients = 100; Delay = 0
+Client time = 
+Total time = 0
+Effective time = 0
+Test: Counts clients = 100; Delay = 0.2
+Client time = 
+Total time = 6
+Effective time = 6
+Test: Counts clients = 100; Delay = 0.4
+Client time = 
+Total time = 12
+Effective time = 12
+Test: Counts clients = 100; Delay = 0.6
+Client time = 
+Total time = 18
+Effective time = 18
+Test: Counts clients = 100; Delay = 0.8
+Client time = 
+Total time = 24
+Effective time = 24
+Test: Counts clients = 100; Delay = 1.0
+Client time = 
+Total time = 30
+Effective time = 30
+
